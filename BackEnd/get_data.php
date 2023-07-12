@@ -1,6 +1,6 @@
 <?php
 
-$servername = "localhost";
+$servername = "36.79.231.51/phpmyadmin";
 $username = "root";
 $password = "";
 $dbname = "dataku";
