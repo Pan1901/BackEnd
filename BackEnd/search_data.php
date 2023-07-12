@@ -3,7 +3,7 @@
 $keyword = $_GET['keyword'];
 
 // Koneksi ke database (sesuaikan dengan konfigurasi database Anda)
-$servername = "localhost";
+$servername = "36.79.231.51/phpmyadmin";
 $username = "root";
 $password = "";
 $dbname = "dataku";
